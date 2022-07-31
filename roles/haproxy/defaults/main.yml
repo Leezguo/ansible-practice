@@ -8,5 +8,5 @@ haproxy_user:
   groupname: "haproxy"
   gid: 2001
 haproxy_config_dir: "/etc/haproxy"
-haproxy_port: 80
-haproxy_manage_port: 8080
+haproxy_port: 8082
+haproxy_manage_port: 8081

@@ -1,5 +1,5 @@
 [lbservers]
-lb.devops-book.local
+localhost
 
 [webservers]
 web1.devops-book.local
@@ -9,4 +9,4 @@ web2.devops-book.local
 localhost
 
 [kibanaservers]
-kibana.devops-book.local
+localhost
